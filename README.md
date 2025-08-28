@@ -1,6 +1,6 @@
 # DS_Asiya-Arif
 
-Data Science Assignment 
+Data Science Assignment - Trade & Market Sentiment Analysis
 
 ## Folder Structure
 
